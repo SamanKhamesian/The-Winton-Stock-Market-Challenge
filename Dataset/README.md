@@ -1,0 +1,2 @@
+### Please download the dataset and put the train.csv file here.
+Download link: [https://www.kaggle.com/c/the-winton-stock-market-challenge/data](https://www.kaggle.com/c/the-winton-stock-market-challenge/data)
