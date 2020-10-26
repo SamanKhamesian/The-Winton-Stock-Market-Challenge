@@ -53,6 +53,7 @@ day). This is a target variable you need to predict as {id}_61.
 	* numpy
 	* pandas
 	* scikit-learn
+	* keras
 	* matplotlib
 
 ##
